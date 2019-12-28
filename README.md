@@ -1,3 +1,11 @@
+# money-accounting-frontend
+
+Clone the current project and run the command `yarn start`
+
+This website must be used along with the money-accounting-backend Web API
+
+https://github.com/pablobvch/money-accounting-backend
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
